@@ -13,6 +13,10 @@ public class DragonRider extends ArenaFighter {
         if (arenaFighter instanceof Dragon) {
             dragonPet = (Dragon) arenaFighter;
             setAttack (dragonPet.getAttack());
+
+
+
+            
         }
     }
 }
