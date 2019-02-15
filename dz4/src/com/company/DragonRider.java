@@ -16,7 +16,7 @@ public class DragonRider extends ArenaFighter {
 
 
 
-            
+
         }
     }
 }
