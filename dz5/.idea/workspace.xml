@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb963c-352e-4ac4-828d-b5f846e9b195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/Homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4/out/production/dz4/com/company/ArenaFighter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4/out/production/dz4/com/company/ArenaFighter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4/out/production/dz4/com/company/Dragon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4/out/production/dz4/com/company/Dragon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4/out/production/dz4/com/company/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4/out/production/dz4/com/company/Knight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4/src/com/company/DragonRider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4/src/com/company/DragonRider.java" afterDir="false" />
-    </list>
+    <list default="true" id="ddfb963c-352e-4ac4-828d-b5f846e9b195" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -164,7 +152,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,6 +174,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,16 +229,17 @@
       <updated>1550234218443</updated>
       <workItem from="1550234223084" duration="17686000" />
       <workItem from="1550257442582" duration="98000" />
+      <workItem from="1550258398604" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17784000" />
+    <option name="totallyTimeSpent" value="17879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534992" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25738725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
